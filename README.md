@@ -1,4 +1,5 @@
-# Otakudesuka
+# Otaku Desu Ka?
+An anime game by an otaku for otakus. 📺 
 
 To start your Phoenix server:
 
